@@ -2,6 +2,14 @@
 
 Documentação do projectary.
 
+
+---
+
+### Aula Teórica de Sexta-Feira - 31 MAR 2017
+
+Esta 6ª feira, haverá aula teórica e prática.
+O Prof. Pedro Dias estará presente, apesar no inicialmente previsto.
+
 ---
 
 ### Sincronizar Forks com o SmartGit
