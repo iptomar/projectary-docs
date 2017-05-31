@@ -4,20 +4,24 @@ Projectary documentation.
 
 ---
 
-### TODO at next friday 2017-05-26
+### TODO at next friday 2017-06-01
 
-- ###### Sistema de Notificações
+- ###### API - Bug GroupID
 
-- ###### Atribuição de Projectos
+  > Problema pode estar na Criação de Utilizador
 
-- ###### Listar Projectos
+- ###### Frontend - Perfis de Utilizador
 
-  > Escolher um projecto
+- ###### Frontend -  Listar Cadidaturas - Aluno
 
-  >>  Listar candidaturas de um projecto
+- ###### Frontend - Notificações de Erro - Mostrar MSG API
 
-  >>> Escolher uma candidatura de um projecto
+- ###### Frontend - Página de Detalhes do projecto
 
-  >>>> Aprova candidatura
+  > A Página institucional vai crescer daqui
 
-  >>>> Outras candidaturas canceladas
+  >> /project/:ID
+
+  >> Detalhes
+
+  >> Grupo Atributo
