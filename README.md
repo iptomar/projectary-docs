@@ -39,3 +39,31 @@ Projectary documentation.
 | 29 Jun - 5ªF | 11h00  | B121  | *Apresentação*        |
 | 29 Jun - 5ªF | 14h00  | B255  | *Defesas Individuais* |
 | 14 Jul - 6ªF | 14h00  | B258  | *Exame Recurso*       |
+
+---
+
+### Projectary Presentation
+
+- #### Ensaio da Apresentação vêr acima na Agenda
+
+- #### Com 2 elementos:
+
+  > Um elemento encarregue da condução da apresentação
+
+    >> Alguém com uma visão geral do projecto
+
+    >> Alguém com boa capacidade de expressão
+
+ > Outro elemento encarregue da demonstração
+
+    >> Alguém com uma visão geral do funcionamento do projecto  
+
+    >> Alguém com boa capacidade de operação
+
+- #### Bons comunicadores
+
+- #### Elementos que vão criar a estrutura geral da apresentação
+
+- #### Dirigido aos Professores e Colegas de curso
+
+- #### 20 a 25 min de duração
