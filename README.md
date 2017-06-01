@@ -54,7 +54,7 @@ Projectary documentation.
 
     >> Alguém com boa capacidade de expressão
 
- > Outro elemento encarregue da demonstração
+  > Outro elemento encarregue da demonstração
 
     >> Alguém com uma visão geral do funcionamento do projecto  
 
