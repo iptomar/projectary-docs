@@ -4,27 +4,33 @@ Projectary documentation.
 
 ---
 
-### TODO at next friday 2017-06-02
+### TODO at next friday 2017-06-09
 
-- #### API - Bug GroupID
+- #### API - Gestão de erros
 
-  > Problema pode estar na Criação de Utilizador
+- #### Frontend - Grupo atribuido na página de projecto
 
-- #### Frontend - Perfis de Utilizador
+- #### Frontend - Gestão de erros
 
-- #### Frontend -  Listar Cadidaturas - Aluno
+- #### Frontend - Recuperação da password
 
-- #### Frontend - Notificações de Erro - Mostrar MSG API
+- #### Frontend - Imagens perfil
 
-- #### Frontend - Página de Detalhes do projecto
+- #### Frontend - Criação de indicadores (tipo pie)
 
-  > A Página institucional vai crescer daqui
+  > Exemplo1: 25 projectos não finalizados
 
-  >> /project/:ID
+  >> 20 projectos atribuidos
 
-  >> Detalhes
+  >> 5 por atribuir
 
-  >> Grupo Atributo
+  > Exemplo2: 100 projectos no Sistema
+
+  >> 25 finalizados
+
+  >> 75 por finalizar
+
+  > Exemplo3: Quantos utilizadores se encontram no sistema
 
 ---
 
@@ -33,11 +39,15 @@ Projectary documentation.
 |     Data     |  Hora  |  Sala |     Actividade PSI    |
 |:------------:|:------:|:-----:|----------------------:|
 | 09 Jun - 6ªF | 18h00  | I151  | *Última Aula*         |
-| 13 Jun - 3ªF | 18h00  | I151  | *Aula Extra*          |
-| 13 Jun - 3ªF | 19h00  | I151  | *Apresentação Beta*   |
+| 12 Jun - 2ªF | 21h00  | I151  | *Aula Extra*          |
+|              |        |       | *Draft Apresentação*  |
+|              |        |       | *Draft Relatório*     |
+| 19 Jun - 2ªF | 21h00  | I151  | *Ensaio geral*        |
+|              |        |       | *Apresentação Beta*   |
+|              |        |       | *Relatório Beta*      |
 | 29 Jun - 5ªF | 10h00  | B255  | *Exame*               |
-| 29 Jun - 5ªF | 11h00  | B121  | *Apresentação*        |
-| 29 Jun - 5ªF | 14h00  | B255  | *Defesas Individuais* |
+|              |        | B121  | *Apresentação*        |
+|              |        | B255  | *Defesas Individuais* |
 | 14 Jul - 6ªF | 14h00  | B258  | *Exame Recurso*       |
 
 ---
@@ -46,7 +56,26 @@ Projectary documentation.
 
 - #### Ensaio da Apresentação vêr acima na Agenda
 
+- #### Estrutura dos Slides:
+
+  - AS
+  - BD
+  - Desenvolvimento API
+  - Vagrant
+  - Desenvolvimento Frontend
+  - Testes
+
+- #### Roadmap dos Slides:  
+
+ AS > BD > FE > API > Vagrant > Testes > AS
+
 - #### Com 2 elementos:
+
+  > Elementos eleitos na aula prática de 2017-06-02
+
+      >> André Santos - Testes
+
+      >> Rafael Escudeiro - Análise de Sistemas
 
   > Um elemento encarregue da condução da apresentação
 
@@ -67,3 +96,5 @@ Projectary documentation.
 - #### Dirigido aos Professores e Colegas de curso
 
 - #### 20 a 25 min de duração
+
+- #### +/- 4 min por área funcional
