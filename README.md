@@ -54,7 +54,7 @@ Projectary documentation.
 | 12 Jun - 2ªF | 21h00  | I151  | *Aula Extra*          |
 |              |        |       | *Draft Apresentação*  |
 |              |        |       | *Draft Relatório*     |
-| 19 Jun - 2ªF | 18h00  | I151  | *Ensaio geral*        |
+| 19 Jun - 2ªF | 20h00  | I151  | *Ensaio geral*        |
 |              |        |       | *Apresentação Beta*   |
 |              |        |       | *Relatório Beta*      |
 | 29 Jun - 5ªF | 10h00  | B255  | *Exame*               |
