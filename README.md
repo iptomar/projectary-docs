@@ -2,9 +2,17 @@
 
 Projectary documentation.
 
----
+### TODO at next friday 2017-06-19
 
-### TODO at next friday 2017-06-09
+- #### Ensaio Geral - 18h00 Sala I151
+
+  > Apresentação Beta
+
+  > Relatório Beta
+
+  ---
+
+### TODO at last friday 2017-06-09 - deadline
 
 - #### API - Gestão de erros
 
@@ -42,7 +50,7 @@ Projectary documentation.
 | 12 Jun - 2ªF | 21h00  | I151  | *Aula Extra*          |
 |              |        |       | *Draft Apresentação*  |
 |              |        |       | *Draft Relatório*     |
-| 19 Jun - 2ªF | 21h00  | I151  | *Ensaio geral*        |
+| 19 Jun - 2ªF | 18h00  | I151  | *Ensaio geral*        |
 |              |        |       | *Apresentação Beta*   |
 |              |        |       | *Relatório Beta*      |
 | 29 Jun - 5ªF | 10h00  | B255  | *Exame*               |
