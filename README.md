@@ -10,6 +10,10 @@ Projectary documentation.
 
   > Relatório Beta
 
+  >> [Versão actual](https://github.com/iptomar/projectary-as/blob/master/Relat%C3%B3rio/Relat%C3%B3rio%20PSI%20-%20Projectary.docx "Ultima versão publicada")   
+
+  >> [Contribuir](https://docs.google.com/document/d/1D700PoNDWbxd8WBTk2NmWkvZ2MV1DhwqT9LpmW7shlI/edit?usp=sharing "Versão actual")
+
   ---
 
 ### TODO at last friday 2017-06-09 - deadline
