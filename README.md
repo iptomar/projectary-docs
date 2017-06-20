@@ -4,9 +4,11 @@ Projectary documentation.
 
 ### TODO at next friday 2017-06-19
 
-- #### Ensaio Geral - 18h00 Sala I151
+- #### Ensaio Geral - 21h00 Sala I154
 
   > Apresentação Beta
+
+  >> [Considerações ](https://github.com/iptomar/projectary-docs/blob/master/BetaPresentation_Considerations.md "Considerações acerca da apresentação beta")    
 
   > Relatório Beta
 
@@ -54,7 +56,7 @@ Projectary documentation.
 | 12 Jun - 2ªF | 21h00  | I151  | *Aula Extra*          |
 |              |        |       | *Draft Apresentação*  |
 |              |        |       | *Draft Relatório*     |
-| 19 Jun - 2ªF | 20h00  | I151  | *Ensaio geral*        |
+| 19 Jun - 2ªF | 21h00  | I154  | *Ensaio geral*        |
 |              |        |       | *Apresentação Beta*   |
 |              |        |       | *Relatório Beta*      |
 | 29 Jun - 5ªF | 10h00  | B255  | *Exame*               |
